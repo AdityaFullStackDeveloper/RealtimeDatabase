@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RealtimeDatabase</string>
+    <string name="add_StudentListData">Add data</string>
+    <string name="enter_your_UpdateName">Enter your name</string>
+    <string name="enter_your_UpdateEmail">Enter your email</string>
+    <string name="enter_your_UpdateAge">Enter your age</string>
+    <string name="updateButton">Update</string>
+</resources>
